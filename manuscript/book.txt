@@ -2,3 +2,4 @@
 2.Diet-food-list.md
 3.What-can-you-eat-at.md
 4.Recipes.md
+6th-week-foods.md
