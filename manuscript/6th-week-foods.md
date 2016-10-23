@@ -1,3 +1,5 @@
 ## 6th week foods
 
-- add image here
+- Adam replace images with text
+
+![](images/Food-list.jpeg)
